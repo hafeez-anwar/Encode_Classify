@@ -18,3 +18,6 @@ Make the following folders in the project directory with the same hierarchy.
       -- Dataset2
 
 ---Results
+
+#Configuration file
+Make appropriate changes in config.yaml
