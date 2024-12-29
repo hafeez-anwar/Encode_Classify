@@ -4,9 +4,9 @@ This repo is used to encode images using pre-trained CNN models. These encodings
 # Make Folders
 ---Datasets
 
-   -- Dataset1
+      -- Dataset1
    
-   -- Dataset2
+      -- Dataset2
 
 ---Encodings
 
