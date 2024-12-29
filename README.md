@@ -10,8 +10,8 @@ This repo is used to encode images using pre-trained CNN models. These encodings
 
 ---Encodings
 
-   -- Dataset1
+      -- Dataset1
    
-   -- Dataset2
+      -- Dataset2
 
 ---Results
