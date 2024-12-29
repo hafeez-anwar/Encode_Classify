@@ -3,6 +3,8 @@ This repo is used to encode images using pre-trained CNN models. These encodings
 
 # Make Folders
 Make the following folders in the project directory with the same hierarchy. 
+
+
 ---Datasets
 
       -- Dataset1
